@@ -1,16 +1,42 @@
-👋 Hello, World! I'm Naba Kumar Chouhan
+# 👋 Hello, I'm Naba Kumar Chouhan
 
-🌱 Aspiring Developer | 📚 Learning the Code | 💡 Building Dreams
+🌍 **Project Scientist | Web GIS Developer | Full-Stack Development**
 
-👨‍💻 I'm taking my first steps into the world of programming and software development. Every line of code is a new adventure!
+I’m a **Web GIS Developer** passionate about building modern, scalable applications for **geospatial data visualization, analysis, and management**.
 
-🚀 Currently honing my skills in openlayers, nodejs, expressjs etc and eager to explore more.
+💻 I work across the geospatial technology stack, combining **frontend mapping, backend development, spatial databases, and GIS servers** to build practical GIS solutions.
 
-📫 Let's connect and learn together! Feel free to reach out for advice, tips, or collaboration.
+### 🛠️ Technical Focus
 
-GitHub: Naba-Kumar
+* 🗺️ **Web GIS:** OpenLayers, GeoServer, ArcGIS Enterprise
+* 🗄️ **Spatial Databases:** PostgreSQL, PostGIS
+* ⚙️ **Backend:** Node.js, Express.js, JavaScript, SQL
+* 🧭 **GIS & Spatial Tools:** QGIS, GDAL/OGR
+* 🚀 **DevOps & Infrastructure:** Linux, Docker, Nginx, Git
 
-Connect with me on LinkedIn: https://in.linkedin.com/in/naba-kumar-chouhan-667b46177 🤝
+### 🚀 What I Build
 
-Excited to be part of the coding community! 💻✨
-Email  : Nabakkrr@gmail.com
+I’m particularly interested in:
+
+* Interactive Web GIS applications
+* Spatial data repositories and geoportals
+* Geospatial data visualization and analysis
+* WMS/WFS and OGC-based services
+* PostGIS spatial processing
+* Large-scale spatial data management
+* GIS application architecture and deployment
+* Location-based and geospatial APIs
+
+Currently working on **enterprise-oriented geospatial platforms** involving spatial databases, GeoServer, Web GIS interfaces, APIs, and spatial data processing.
+
+📚 **Education:** Master of Computer Applications (MCA)
+
+📫 **Email:** [Nabakkrr@gmail.com](mailto:Nabakkrr@gmail.com)
+
+🤝 **LinkedIn:** https://in.linkedin.com/in/naba-kumar-chouhan-667b46177
+
+---
+
+> 🌐 Building software where **maps, data, and technology come together.**
+
+💻 *Always learning. Always building.*
